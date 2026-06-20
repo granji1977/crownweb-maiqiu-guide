@@ -1,2 +1,14 @@
 # crownweb-maiqiu-guide
-HTML page archive and documentation
+
+页面文件整理目录
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
